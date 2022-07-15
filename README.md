@@ -72,3 +72,4 @@ I’m a Full Stack Engineer who loves getting his hands dirty with code and conv
 
 ♨ Willingness to learn new skills as the project requires.   
 
+♨ Good understanding of infrastructure as code software tool such as Terraform.
