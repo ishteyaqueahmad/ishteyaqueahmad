@@ -9,50 +9,50 @@ I’m a Full Stack Engineer who loves getting his hands dirty with code and conv
 
 ### Back-end
 
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/spring.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/boot.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/hibernate.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/spring-cloud.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/tomcat.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/spring.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/boot.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/hibernate.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/spring-cloud.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/tomcat.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/nodejs.png"></code>
 
 ### Front-end
 
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/angular.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/css3.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/js.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/typescript.png"></code>
+<code><img height="30" src="https://github.com/ishteyaqueahmad/ishteyaqueahmad/blob/master/images/angular.png"></code>
 
 ### Databases
 
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/mysql.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/oracle.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/mysql.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/oracle.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/mongodb.png"></code>
 
 ### Search Technology
 
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/solr.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/solr.png"></code>
 
 ### Version Control
 
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/github.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/github.png"></code>
 
 ### Cloud Servers
 
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/aws.png"></code>
 
 ### Tools
 
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/maven.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/gradle.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/intellij.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/vc.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/vim.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/maven.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/gradle.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/intellij.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/vc.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/vim.png"></code>
 
 
 ### Skills Summary 
