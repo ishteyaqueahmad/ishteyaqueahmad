@@ -44,6 +44,7 @@ I’m a Full Stack Engineer who loves getting his hands dirty with code and conv
 ### Cloud Servers
 
 <code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ishteyaqueahmad/ishteyaqueahmad/master/images/gcp.png"></code>
 
 ### Tools
 
