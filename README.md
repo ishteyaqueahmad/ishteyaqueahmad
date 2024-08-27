@@ -58,9 +58,10 @@ I’m a Full Stack Engineer who loves getting his hands dirty with code and conv
 
 ### Skills Summary 
 
-♨ Experienced Full Stack Java Developer focused on solving customer problems, improving usability, and maximizing efficiency. Specialized in creating web-based scalable systems using java programming with Spring/Spring Boot based technologies.   
+♨ Experienced Full Stack Java Developer focused on solving customer problems, improving usability, and maximizing efficiency. Specialized in creating web-based scalable systems using       java programming with Spring/Spring Boot based technologies.   
 
-♨ A good understanding of large-scale distributed systems in practice and comfortable with microservices architectures, API-based and       Domain Driven Design (DDD) with event-based communication.   
+♨ A good understanding of large-scale distributed systems in practice and comfortable with microservices architectures, API-based and       Domain Driven Design (DDD) with event-based   
+   communication.   
 
 ♨ Good knowledge of object-oriented concepts and design patterns.   
 
