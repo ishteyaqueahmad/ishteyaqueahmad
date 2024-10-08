@@ -1,8 +1,6 @@
 # Hi, I'm Ishteyaque 👋🏾
 
 
-<img height="200" src="https://user-images.githubusercontent.com/26144363/179538061-ce342737-6899-4a46-9557-fda57565ab61.jpg">
-
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 I’m a Full Stack Engineer who loves getting his hands dirty with code and convert ideas into clean and working code. I always enjoy a challenge and achieving personal goals. In particular, I seek out the opportunity to learn new skills and be introduced to new technologies.
 
